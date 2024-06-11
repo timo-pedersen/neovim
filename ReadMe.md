@@ -20,5 +20,6 @@ Neovim setup
 - LSP
 - Treesitter
 - fzf for nvim
+- charp (Roslyn, investigate)
 
 
