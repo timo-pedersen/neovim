@@ -1,4 +1,4 @@
-Neovim setup
+# Neovim setup
 
 ## Prerequisits (automate)
 
