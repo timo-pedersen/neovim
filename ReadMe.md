@@ -6,6 +6,7 @@
 - rg (winget install BurntSushi.ripgrep.MSVC)
 - fd (winget install sharkdp.fd)
 - fzf (winget install fzf) See: https://www.youtube.com/watch?v=qgG5Jhi_Els
+- fzf.lua (https://github.com/ibhagwan/fzf-lua)
 
 ## Set up file structure
 - In: ~/AppData/Local/nvim
